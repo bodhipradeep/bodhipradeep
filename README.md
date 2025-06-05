@@ -10,7 +10,7 @@ Passionate about building intelligent systems that combine NLP, Generative AI, a
 - 👨‍💻 *I'm not smart or perfect, but I can confidently say that I'm always eager to learn more. - That's my mindset.*
 - 💼 Former **Data Analyst at Progressive Infotech**, where I focused on automating insights and improving decision-making with data.
 - 🌱 Currently learning **LLM Ops, LangGraph, and Autonomous Agents** to push the limits of applied AI.
-- 🧪 Explore my work on [Hugging Face](https://huggingface.co/PradeepBodhi) and [Streamlit](https://github.com/bodhipradeep?tab=repositories).  
+- 🧪 Explore my work on [Hugging Face](https://huggingface.co/PradeepBodhi) and [Streamlit](https://share.streamlit.io/user/bodhipradeep).  
 
 ---
 
