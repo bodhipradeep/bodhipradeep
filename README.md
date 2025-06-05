@@ -38,21 +38,21 @@
 - Tech: scikit-learn, pandas, Streamlit, AWS EC2
 - What it does: Recommends movies based on plot similarity using cosine distance on vectorized metadata.
 - Deployment: Live on AWS EC2
-🔗 ![Repository](https://github.com/bodhipradeep/Movie_Rec_Content_base)
+🔗 [Repository](https://github.com/bodhipradeep/Movie_Rec_Content_base)
 
 ### 🧠 Agentic RAG System
 - Approach: Combines Retrieval-Augmented Generation (RAG) with autonomous agent flow.
 - Tech: llamaindex, Ollama, Groq, FAISS, OpenAI functions
 - What it does: Enables documents or web data to be turned into conversational agents with memory and task execution.
 - Deployment: GCP VM using Docker
-🔗 ![Repository](https://github.com/bodhipradeep/Agentic-RAG-LlamaIndex)
+🔗 [Repository](https://github.com/bodhipradeep/Agentic-RAG-LlamaIndex)
 
 ### 🤖 Multi-Agent AI Chatbot
 - Approach: Multi-agent LangGraph architecture for task delegation
 - Tech: LangGraph, Groq, LangChain tools, Guardrails
 - What it does: AI agents communicate to solve tasks—one agent fetches data, another verifies, another generates output.
 - Deployment: AWS Lightsail instance
-🔗 ![Repository](https://github.com/bodhipradeep/Langgraph/tree/main/Multi-Agent-Chatbot)
+🔗 [Repository](https://github.com/bodhipradeep/Langgraph/tree/main/Multi-Agent-Chatbot)
   
 ---
 
