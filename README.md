@@ -22,12 +22,12 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, R, SQL, HTML, CSS, JavaScript
-**Data Science:** Generative AI, LLMs, Deep Learning, Machine Learning, NLP, Predictive Modeling, FAISS 
-**Libraries:** scikit-learn, pandas, NumPy, Transformers, Matplotlib, Seaborn, PySpark
-**Framworks:** TensorFlow, PyTorch, LangChain, LangGraph, LlamaIndex, CrewAI, n8n 
-**Tools:** Power BI, Tableau, Streamlit, Hugging Face, AWS, GCP, Docker, Git 
-**LLMs:** OpenAI, Ollama, Claude, Groq, Gemini, HuggingFace LLMs
+- **Languages:** Python, R, SQL, HTML, CSS, JavaScript
+- **Data Science:** Generative AI, LLMs, Deep Learning, Machine Learning, NLP, Predictive Modeling, FAISS 
+- **Libraries:** scikit-learn, pandas, NumPy, Transformers, Matplotlib, Seaborn, PySpark
+- **Framworks:** TensorFlow, PyTorch, LangChain, LangGraph, LlamaIndex, CrewAI, n8n 
+- **Tools:** Power BI, Tableau, Streamlit, Hugging Face, AWS, GCP, Docker, Git 
+- **LLMs:** OpenAI, Ollama, Claude, Groq, Gemini, HuggingFace LLMs
 
 ---
 
