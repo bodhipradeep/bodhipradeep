@@ -1,23 +1,25 @@
 # Hi, I'm Pradeep! 👋
-*Data Scientist | AI Engineer | Data Analyst*
+*Data Scientist | AI/ML Engineer | NLP & GenAI Specialist | Builder of Agentic Systems & LLM Pipelines*   
+
+Passionate about building intelligent systems that combine NLP, Generative AI, and agentic reasoning. I thrive on solving real-world problems using data, models, and automation.
 
 ## 🚀 About Me
 
-- 👨‍💻 *I'm not smart or perfect, but I'm always curious to learn more. – That’s my mindset.*
-- 🎯 **AI & Data Science Associate**, passionate about **Gen AI, NLP, & Machine Learning**.
-- 🏆 **Building & Deploying AI Projects** – Explore my work on **[Hugging Face](https://huggingface.co/PradeepBodhi)** and **Streamlit**.  
-- ⚡ Currently working as a **Data Analyst** at **[Progressive Infotech](https://www.progressive.in)**, gaining hands-on experience in data-driven insights and analytics..  
-- 🌱 Focused on learning **Agentic AI and Advanced AI Techniques**  to further my career in AI engineering and development.
-  
+- 🧠 I'm a Junior **AI/ML Engineer** with a passion for **NLP**, **Generative AI**, and **Agentic Systems**.
+- 🏗️ I build and deploy real-world AI solutions—from recommendation engines to multi-agent LLM systems.
+- 👨‍💻 *I'm not smart or perfect, but I can confidently say that I'm always eager to learn more. - That's my mindset.*
+- 💼 Former **Data Analyst at Progressive Infotech**, where I focused on automating insights and improving decision-making with data.
+- 🌱 Currently learning **LLM Ops, LangGraph, and Autonomous Agents** to push the limits of applied AI.
+- 🧪 Explore my work on [Hugging Face](https://huggingface.co/PradeepBodhi) and [Streamlit](https://github.com/bodhipradeep?tab=repositories).  
 
 ---
 
-## 📚 What I Do
+## 🔧 Expertise
 
-- 🧠 Build **end-to-end AI/ML solutions** with real deployment.
-- 🆓 Share free open-source projects in **NLP, GenAI, RAG, Chatbots, and ML**.
-- 💻 My **Projects** are available on **[GitHub](https://github.com/bodhipradeep?tab=repositories)**.
-- ✍️ I post projects articles on my **[LinkedIn](https://www.linkedin.com/in/bodhi-pradeep/)**.
+- 🛠️ Building end-to-end **AI/ML systems** with deployment pipelines (Streamlit, Docker, Cloud).
+- 🤖 Experience with **Generative AI**, **RAG pipelines**, **LangGraph**, **LlamaIndex**, and **multi-agent systems**.
+- 📊 Strong foundation in **data analysis**, **modeling**, and **NLP workflows**.
+- 🌍 Open-source contributor and project writer on [GitHub](https://github.com/bodhipradeep) and [LinkedIn](https://www.linkedin.com/in/bodhi-pradeep/).
 
 ---
 
@@ -74,4 +76,5 @@
 If you find my projects helpful, consider ⭐️ **starring my repos.**
 Your support keeps me inspired to keep building! 🚀
 
-### Thank You 🙏
+*🔍 Open to roles in AI/ML Engineering, Data Science, or NLP/GenAI Engineering – remote or hybrid.
+Let's build the future of AI, together. 🚀*
