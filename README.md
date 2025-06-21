@@ -5,10 +5,10 @@ Passionate about building intelligent systems that combine NLP, Generative AI, a
 
 ## 🚀 About Me
 
-- 🧠 I'm a Junior **AI/ML Engineer** with a passion for **NLP**, **Generative AI**, and **Agentic Systems**.
+- 🧠 I'm a **Data Scientist & AI/ML Engineer** with a passion for **NLP**, **Generative AI**, **RAG**, and **Agentic Systems**.
 - 🏗️ I build and deploy real-world AI solutions—from recommendation engines to multi-agent LLM systems.
 - 👨‍💻 *I'm not smart or perfect, but I can confidently say that I'm always eager to learn more. - That's my mindset.*
-- 💼 Former **Data Analyst at Progressive Infotech**, where I focused on automating insights and improving decision-making with data.
+- 💼 Former **Data Scientist Analyst at Progressive Infotech**, where I focused on automating insights and improving decision-making with data.
 - 🌱 Currently learning **LLM Ops, LangGraph, and Autonomous Agents** to push the limits of applied AI.
 - 🧪 Explore my work on [Hugging Face](https://huggingface.co/PradeepBodhi) and [Streamlit](https://share.streamlit.io/user/bodhipradeep).  
 
@@ -28,7 +28,7 @@ Passionate about building intelligent systems that combine NLP, Generative AI, a
 - **Data Science:** Generative AI, LLMs, Deep Learning, Machine Learning, NLP, Predictive Modeling, FAISS 
 - **Libraries:** scikit-learn, pandas, NumPy, Transformers, Matplotlib, Seaborn, PySpark
 - **Framworks:** TensorFlow, PyTorch, LangChain, LangGraph, LlamaIndex, CrewAI, n8n 
-- **Tools:** Power BI, Tableau, Streamlit, Hugging Face, AWS, GCP, Docker, Git 
+- **Tools:** Power BI, Tableau, Streamlit, Hugging Face, AWS, GCP, Docker, FastAPI
 - **LLMs:** OpenAI, Ollama, Claude, Groq, Gemini, HuggingFace LLMs
 
 ---
