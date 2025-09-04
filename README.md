@@ -1,9 +1,7 @@
 # Hi, I'm Pradeep! 👋
 *Generative AI Engineer | Agentic AI Builder | LLM & RAG Specialist*   
 
-[LinkedIn](https://www.linkedin.com/in/bodhi-pradeep)  
-
-I design and build intelligent AI systems that combine LLMs, multi-agent orchestration, and RAG pipelines to solve real-world business problems. My work spans AI automation, LLM fine-tuning, agentic reasoning, and end-to-end deployment on cloud platforms.
+I design and build intelligent AI systems that combine LLMs, multi-agent orchestration, and RAG pipelines to solve real-world business problems. My work spans AI automation, LLM fine-tuning, agentic reasoning, and end-to-end deployment on cloud platforms. [LinkedIn](https://www.linkedin.com/in/bodhi-pradeep)  
 
 ## 🚀 About Me
 
