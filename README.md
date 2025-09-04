@@ -1,39 +1,54 @@
 # Hi, I'm Pradeep! 👋
-*Data Scientist | AI/ML Engineer | NLP & GenAI Specialist | Builder of Agentic Systems & LLM Pipelines*   
+*Generative AI Engineer | Agentic AI Builder | LLM & RAG Specialist*   
 
-Passionate about building intelligent systems that combine NLP, Generative AI, and agentic reasoning. I thrive on solving real-world problems using data, models, and automation.
+I design and build intelligent AI systems that combine LLMs, multi-agent orchestration, and RAG pipelines to solve real-world business problems. My work spans AI automation, LLM fine-tuning, agentic reasoning, and end-to-end deployment on cloud platforms.
 
 ## 🚀 About Me
 
-- 🧠 I'm a **Data Scientist & AI/ML Engineer** with a passion for **NLP**, **Generative AI**, **RAG**, and **Agentic Systems**.
-- 🏗️ I build and deploy real-world AI solutions—from recommendation engines to multi-agent LLM systems.
+- 🤖 **Generative AI Engineer** with hands-on experience in **LLM fine-tuning (LoRA/QLoRA)**, **RAG systems**, and **AI Agents**.  
+- 🧠 Skilled in **LangChain, LangGraph, LlamaIndex, Hugging Face, Groq, OpenAI, Claude**, and **vector DBs**.  
+- 🏗️ Built production-ready AI agents, multi-agent orchestration systems, and custom NLP models for enterprise automation.  
 - 👨‍💻 *I'm not smart or perfect, but I can confidently say that I'm always eager to learn more. - That's my mindset.*
 - 💼 Former **Data Science Analyst at Progressive Infotech**, where I focused on automating insights and improving decision-making with data.
-- 🌱 Currently learning **LLM Ops, LangGraph, and Autonomous Agents** to push the limits of applied AI.
+- 🌱 Currently working on **LLM Ops, Agentic AI Projects** with real-world deployment on AWS & GCP.
 - 🧪 Explore my work on [Hugging Face](https://huggingface.co/PradeepBodhi) and [Streamlit](https://share.streamlit.io/user/bodhipradeep).  
 
 ---
 
-## 🔧 Expertise
+## 🔧 Core Expertise
 
-- 🛠️ Building end-to-end **AI/ML systems** with deployment pipelines (Streamlit, Docker, Cloud).
-- 🤖 Experience with **Generative AI**, **RAG pipelines**, **LangGraph**, **LlamaIndex**, and **multi-agent systems**.
-- 📊 Strong foundation in **data analysis**, **modeling**, and **NLP workflows**.
-- 🌍 Open-source contributor and project writer on [GitHub](https://github.com/bodhipradeep) and [LinkedIn](https://www.linkedin.com/in/bodhi-pradeep/).
+- **Generative AI & LLMs** → RAG, Multi-Agent Systems, Fine-tuning (LoRA/QLoRA), Prompt Engineering  
+- **NLP & Speech AI** → Tokenization, Embeddings, Sentiment Analysis, ASR (Whisper), TTS (gTTS)  
+- **ML & DL** → Classification, Regression, Clustering, ANN, CNN, RNN, LSTMs, YOLO  
+- **Deployment & Ops** → FastAPI, Streamlit, Docker, MLflow, Cloud (AWS/GCP)  
+- **Visualization & BI** → Power BI, Tableau, SQL, DAX  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, R, SQL, HTML, CSS, JavaScript
-- **Data Science:** Generative AI, LLMs, Deep Learning, Machine Learning, NLP, Predictive Modeling, FAISS 
-- **Libraries:** scikit-learn, pandas, NumPy, Transformers, Matplotlib, Seaborn, PySpark
-- **Framworks:** TensorFlow, PyTorch, LangChain, LangGraph, LlamaIndex, CrewAI, n8n 
-- **Tools:** Power BI, Tableau, Streamlit, Hugging Face, AWS, GCP, Docker, FastAPI
-- **LLMs:** OpenAI, Ollama, Claude, Groq, Gemini, HuggingFace LLMs
+
+- **Languages:** Python, R, SQL  
+- **Libraries:** Transformers, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PySpark  
+- **Frameworks:** PyTorch, TensorFlow, LangChain, LangGraph, LlamaIndex, CrewAI  
+- **Tools:** Hugging Face, Git/GitHub, FastAPI, Streamlit, Docker, Power BI, Tableau  
+- **Cloud:** AWS (SageMaker, S3, EC2), GCP (Vertex AI), Databricks  
+- **LLMs:** OpenAI, Claude, Groq, Llama, BioMistral, Ollama, HuggingFace Hub 
 
 ---
 
-## 🚧 Recent Projects
+## 🚧 Highlight Projects
+
+### 🩺 AI Health Assistant  
+- **Tech:** LangChain, LangGraph, HuggingFace, BioMistral-7B (fine-tuned with QLoRA), Speech AI, GCP  
+- **What it does:** Multi-agent orchestration for medical reasoning with human-in-the-loop validation, mimicking a doctor.  
+- **Deployment:** Dockerized, FastAPI + Streamlit UI.  
+🔗 [Repository](https://github.com/bodhipradeep/AI-HealthAssistant)  
+
+### 🌍 AI Trip Planner  
+- **Tech:** Groq LLM, LangGraph, LangChain, Multi-Agent, FastAPI, AWS  
+- **What it does:** Creates personalized itineraries with integrations for flights, hotels, weather, and currency conversion.  
+- **Deployment:** Dockerized, hosted on AWS EC2.  
+🔗 [Repository](https://github.com/bodhipradeep/SmartAI_TripPlanner)  
 
 ### 🎬 Movie Recommendation System
 - Approach: Content-based filtering using TF-IDF + KNN
@@ -65,16 +80,17 @@ Passionate about building intelligent systems that combine NLP, Generative AI, a
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodhipradeep&show_icons=true&theme=radical)
 
 ---
+
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-kumar8/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bodhi-pradeep) 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:pradeep.kmr.pro@gmail.com)
  
 ---
-## 💖 Support My Work!
 
-If you find my projects helpful, consider ⭐️ **starring my repos.**
-Your support keeps me inspired to keep building! 🚀
+## 💖 Support My Work  
 
-*🔍 Open to roles in AI/ML Engineering, Data Science, or NLP/GenAI Engineering – remote or hybrid.
-Let's build the future of AI, together. 🚀*
+If you find my projects helpful, consider ⭐️ **starring my repos**.  
+Your support keeps me inspired to keep building! 🚀  
+
+*🔍 Open to roles in **Generative AI | Agentic AI | LLM Engineering** (Remote / Hybrid).*  
