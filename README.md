@@ -1,5 +1,5 @@
 # Hi, I'm Pradeep! 👋
-*Generative AI Engineer | Agentic AI Builder | LLM & RAG Specialist*   
+*Generative AI Developer @[FCI CCM](https://www.fci-ccm.com/) | Agentic AI Builder | LLM & RAG Specialist*   
 
 I design and build intelligent AI systems that combine LLMs, multi-agent orchestration, and RAG pipelines to solve real-world business problems. My work spans AI automation, LLM fine-tuning, agentic reasoning, and end-to-end deployment on cloud platforms. [LinkedIn](https://www.linkedin.com/in/bodhi-pradeep)  
 
@@ -27,7 +27,7 @@ I design and build intelligent AI systems that combine LLMs, multi-agent orchest
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, R, SQL  
+- **Languages:** Python, R, SQL, JAVA  
 - **Libraries:** Transformers, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PySpark  
 - **Frameworks:** PyTorch, TensorFlow, LangChain, LangGraph, LlamaIndex, CrewAI  
 - **Tools:** Hugging Face, Git/GitHub, FastAPI, Streamlit, Docker, Power BI, Tableau  
